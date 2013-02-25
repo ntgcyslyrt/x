@@ -63,15 +63,12 @@ whois
 DEB_STANDARD="
 anacron
 bti
-byobu
 ca-certificates
 cowsay
 cplay
 devilspie
 dnstracer
-github-cli
 gitk
-guake
 imagemagick
 ipcalc
 jpegoptim
@@ -132,7 +129,6 @@ xterm
 DEB_EXTRA="
 bitlbee
 build-essential
-byzanz
 chromium-browser
 cmake
 cscope
@@ -158,10 +154,10 @@ libglib2.0-doc
 librspec-ruby1.9.1
 libtemplate-multilingual-perl
 libtemplate-perl
+lmodern
 manpages-dev
 manpages-posix
 mercurial
-muttprint
 octave3.2
 pandoc
 pdfjam
@@ -172,7 +168,8 @@ php5-cli
 pyflakes
 python-doc
 python-docutils
-python-landslide
+python-landslide-patched
+python-markdown-extra
 python-matplotlib
 python-numpy
 python-pygments
@@ -188,7 +185,6 @@ texlive-latex-extra
 texlive-latex-recommended
 texlive-publishers
 texlive-xetex
-tilda
 tk-tile
 ttf-inconsolata
 ttf-ubuntu-title
